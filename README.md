@@ -31,7 +31,7 @@ Trying new things and creating small scripts to make my life and other's easier.
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-fed501?style=for-the-badge&logo=labview&logoColor=white&labelColor=101010)]()
 [![Fortran](https://img.shields.io/badge/Fortran-754e97?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
 </br>
-[![MatLab](https://img.shields.io/badge/Matlab-ff8607?style=for-the-badge&logo=matlab&logoColor=white&labelColor=101010)]()
+[![MatLab](https://img.shields.io/badge/Matlab-ff8607?style=for-the-badge&logo=matrix&logoColor=white&labelColor=101010)]()
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
