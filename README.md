@@ -1,4 +1,4 @@
-# ![https://efrenrodriguezrodriguez.com](https://raw.githubusercontent.com/EfrenPy/EfrenPy/main/atom.png) Hello, my name is Efren Rodriguez
+# ![https://efrenrodriguezrodriguez.com](https://github.com/EfrenPy/EfrenPy/blob/main/atom.png) Hello, my name is Efren Rodriguez
 ### Collaborating researcher at the Galician Institute of High Energy Physics (IGFAE)
 
 
