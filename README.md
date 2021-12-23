@@ -24,9 +24,13 @@ Trying new things and creating small scripts to make my life and other's easier.
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![VHDL](https://img.shields.io/badge/VHDL-15243c?style=for-the-badge&logo=vhdl&logoColor=white&labelColor=101010)]()
 [![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 </br>
-[![VHDL](https://img.shields.io/badge/VHDL-15243c?style=for-the-badge&logo=vhdl&logoColor=white&labelColor=101010)]()
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+</br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
