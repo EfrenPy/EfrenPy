@@ -25,7 +25,11 @@ Trying new things and creating small scripts to make my life and other's easier.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![VHDL](https://img.shields.io/badge/VHDL-15243c?style=for-the-badge&logo=vhdl&logoColor=white&labelColor=101010)]()
-[![Wincc OA](https://img.shields.io/badge/WinCCOA-03bedc?style=for-the-badge&logo=winccoa&logoColor=white)]()
+[![WinCC](https://img.shields.io/badge/WinCC-03bedc?style=for-the-badge&logo=winccoa&logoColor=white)]()
+</br>
+[![SCADA](https://img.shields.io/badge/SCADA-2C2D72?style=for-the-badge&logo=scada&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 </br>
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
