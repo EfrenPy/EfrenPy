@@ -27,7 +27,7 @@ Trying new things and creating small scripts to make my life and other's easier.
 [![VHDL](https://img.shields.io/badge/VHDL-15243c?style=for-the-badge&logo=vhdl&logoColor=white&labelColor=101010)]()
 [![WinCCOA](https://img.shields.io/badge/WinCCOA-009999?style=for-the-badge&logo=siemens&logoColor=white&labelColor=101010)]()
 </br>
-[![SCADA](https://img.shields.io/badge/SCADA-2C2D72?style=for-the-badge&logo=scada&logoColor=white&labelColor=101010)]()
+[![SCADA](https://img.shields.io/badge/SCADA-2C2D72?style=for-the-badge&logo=siemens&logoColor=white&labelColor=101010)]()
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-fed501?style=for-the-badge&logo=labview&logoColor=white&labelColor=101010)]()
 [![Fortran](https://img.shields.io/badge/Fortran-754e97?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
 </br>
