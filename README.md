@@ -30,6 +30,7 @@ Trying new things and creating small scripts to make my life and other's easier.
 [![SCADA](https://img.shields.io/badge/SCADA-2C2D72?style=for-the-badge&logo=scada&logoColor=white&labelColor=101010)]()
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-fed501?style=for-the-badge&logo=labview&logoColor=white&labelColor=101010)]()
 [![Fortran](https://img.shields.io/badge/Fortran-754e97?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
+[![MatLab](https://img.shields.io/badge/Matlab-ff8607?style=for-the-badge&logo=matlab&logoColor=white&labelColor=101010)]()
 </br>
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
@@ -39,10 +40,6 @@ Trying new things and creating small scripts to make my life and other's easier.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
