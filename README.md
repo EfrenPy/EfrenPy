@@ -1,4 +1,4 @@
-# ![https://efrenrodriguezrodriguez.com](https://raw.githubusercontent.com/efrenpy/efrenpy/master/atom.svg) Hello, my name is Efren Rodriguez
+# ![https://efrenrodriguezrodriguez.com](https://raw.githubusercontent.com/efrenpy/efrenpy/main/atom.svg) Hello, my name is Efren Rodriguez
 ### Collaborating researcher at the Galician Institute of High Energy Physics (IGFAE)
 
 
@@ -156,4 +156,4 @@ Small weekly programming challenges to improve our skills (mainly using [Swift](
 </br>
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)# EfrenPy
