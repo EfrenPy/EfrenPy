@@ -24,7 +24,7 @@ Trying new things and creating small scripts to make my life and other's easier.
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=white)]()
+[![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 </br>
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
