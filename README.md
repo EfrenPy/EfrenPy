@@ -5,6 +5,8 @@
 [![Personal WebPage](https://img.shields.io/website-up-down-green-red/http/efrenrodriguezrodriguez.com)](https://www.efrenrodriguezrodriguez.com/)
 ![GitHub Followers](https://img.shields.io/github/followers/efrenpy?style=social)
 
+![https://github.com/efrenpy](https://raw.githubusercontent.com/efrenpy/efrenpy/master/profile.png)
+
 I am  Physics PhD student at the University of Santiago de Compostela.
 
 Working at the [Galician Institute of High Energy Physics (IGFAE)](https://igfae.usc.es/igfae/) since 2018. 
