@@ -5,7 +5,7 @@
 [![Personal WebPage](https://img.shields.io/website-up-down-green-red/http/efrenrodriguezrodriguez.com)](https://www.efrenrodriguezrodriguez.com/)
 ![GitHub Followers](https://img.shields.io/github/followers/efrenpy?style=social)
 
-![https://github.com/efrenpy](https://github.com/EfrenPy/EfrenPy/blob/main/profile.jpg)
+![https://github.com/efrenpy](https://github.com/EfrenPy/EfrenPy/blob/main/profile.png)
 
 I am  Physics PhD student at the University of Santiago de Compostela.
 
