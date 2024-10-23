@@ -1,5 +1,5 @@
 # ![https://efrenrodriguezrodriguez.com](https://github.com/EfrenPy/EfrenPy/blob/main/atom.png) Hello, my name is Efren Rodriguez
-### Collaborating researcher at the Galician Institute of High Energy Physics (IGFAE)
+### I am a Physics PhD student at the University of Santiago de Compostela, with a fellowship at CERN in the VELO group.
 
 
 [![Personal WebPage](https://img.shields.io/website-up-down-green-red/http/efrenrodriguezrodriguez.com)](https://www.efrenrodriguezrodriguez.com/)
@@ -7,17 +7,16 @@
 
 ![https://github.com/efrenpy](https://github.com/EfrenPy/EfrenPy/blob/main/profile1.png)
 
-I am  Physics PhD student at the University of Santiago de Compostela.
+I am a Physics PhD student at the University of Santiago de Compostela, with a fellowship at CERN in the VELO group.
 
-Working at the [Galician Institute of High Energy Physics (IGFAE)](https://igfae.usc.es/igfae/) since 2018. 
+Since 2018, I have been working at the Galician Institute of High Energy Physics (IGFAE) and now, at CERN, I am involved in several advanced projects:
 
-My current tasks are:
-- Integration of the detector into the general framework of the LHCb experiment.
-- Calibration and time alignment of the detector, detector data collection at LHCaccelerator.
-- Research and development of silicon detectors with temporal information (4D).
+    Integration of the Timepix4 detector into the LHCb experiment framework.
+    Leading the development of the Timepix4 Beam Telescope, overseeing its test beam campaigns, construction, and operation.
+    Research and development of silicon sensors with temporal (4D) information, including simulation, fabrication, and testing.
+    Developing sophisticated data analysis techniques for high-energy physics sensors.
 
-In my free time I like to entertain myself learning new coding languages and techniques. 
-Trying new things and creating small scripts to make my life and other's easier.
+In my free time, I enjoy learning new programming languages and techniques, creating small scripts and tools to improve efficiency and simplify workflows for myself and others.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
