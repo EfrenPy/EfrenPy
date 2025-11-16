@@ -1,20 +1,24 @@
-<div align="center">
-  <img src="https://github.com/EfrenPy/EfrenPy/blob/main/atom.png" alt="atom" width="60"/>
+<table>
+<tr>
+<td width="33%" valign="top">
+  <img src="https://github.com/EfrenPy/EfrenPy/blob/main/profile.jpg" alt="Profile Picture" width="100%" style="border-radius: 10px;"/>
+</td>
+<td width="67%" valign="top">
 
-  # Hello, my name is Efrén Rodríguez Rodríguez
+  # <img src="https://github.com/EfrenPy/EfrenPy/blob/main/atom.png" alt="atom" width="50" align="left"/> Hello, my name is Efrén Rodríguez Rodríguez
+
   ### Postdoctoral Researcher in particle physics silicon detectors at CERN's EP-R&D department | Geneva, Switzerland
 
   [![Personal WebPage](https://img.shields.io/website-up-down-green-red/http/efrenrodriguezrodriguez.com)](https://www.efrenrodriguezrodriguez.com/)
   ![GitHub Followers](https://img.shields.io/github/followers/efrenpy?style=social)
-</div>
 
-<br/>
+  <br/>
 
-<img align="right" alt="Profile Picture" src="https://github.com/EfrenPy/EfrenPy/blob/main/profile.jpg" width="300" style="border-radius: 10px; margin-left: 20px;"/>
+  I am a physicist with 8+ years of experience designing, building, and implementing advanced technologies in instrumentation and sensors. I have led contributions to major international projects including the LHCb's silicon pixel detector and Timepix4 particle beam telescope.
 
-I am a physicist with 8+ years of experience designing, building, and implementing advanced technologies in instrumentation and sensors. I have led contributions to major international projects including the LHCb's silicon pixel detector and Timepix4 particle beam telescope.
-
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
