@@ -88,6 +88,16 @@ At CERN's EP-R&D department, I am involved in cutting-edge research:
 
 ## Personal Projects
 
+### JulaboFL1703-control - Lab Equipment Control System
+[![GitHub](https://img.shields.io/badge/GitHub-JulaboFL1703--control-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/EfrenPy/JulaboFL1703-control)
+
+Comprehensive Python utilities for operating a Julabo recirculating chiller. Features include:
+- Command-line interface with automatic USB serial port detection
+- Desktop and remote GUI with real-time temperature monitoring
+- TCP JSON server for network-based control
+- Python API for programmatic integration
+- Temperature charting with matplotlib
+
 ### Vecindad Ames - Civic Engagement Platform
 [![Website](https://img.shields.io/badge/Visit-bertamirans.efrenrodriguezrodriguez.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://bertamirans.efrenrodriguezrodriguez.com/)
 
