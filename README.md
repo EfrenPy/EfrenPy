@@ -160,7 +160,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrenpy&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrenpy&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=efrenpy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
