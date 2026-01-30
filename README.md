@@ -177,6 +177,13 @@ Comprehensive Python utilities for operating a Julabo recirculating chiller. Fea
 - Python API for programmatic integration
 - Temperature charting with matplotlib
 
+### MapToPoster — City Map Poster Generator
+[![GitHub](https://img.shields.io/badge/GitHub-maptoposter-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/EfrenPy/maptoposter)
+
+Transform your favorite cities into beautiful, minimalist designs. Features include:
+- Create and export visually striking map posters with code
+- Customizable city map layouts and styles
+
 ### Vecindad Ames — Civic Engagement Platform
 [![Website](https://img.shields.io/badge/Visit-bertamirans.efrenrodriguezrodriguez.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://bertamirans.efrenrodriguezrodriguez.com/)
 
